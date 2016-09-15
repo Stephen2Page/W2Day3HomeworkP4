@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP4\W2Day3HomeworkP4\bin\Debug\W2Day3HomeworkP4.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP4\W2Day3HomeworkP4\bin\Debug\W2Day3HomeworkP4.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP4\W2Day3HomeworkP4\bin\Debug\W2Day3HomeworkP4.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP4\W2Day3HomeworkP4\obj\Debug\W2Day3HomeworkP4.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP4\W2Day3HomeworkP4\obj\Debug\W2Day3HomeworkP4.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP4\W2Day3HomeworkP4\obj\Debug\W2Day3HomeworkP4.pdb
